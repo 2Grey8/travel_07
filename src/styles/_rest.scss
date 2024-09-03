@@ -1,0 +1,32 @@
+.rest {
+    &__title {
+        width: 70rem;
+        display: block;
+        margin: 0 auto;
+        padding-top: 9.1rem;
+        margin-bottom: 5.2rem;
+        color: #1C1C1C;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 44px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        text-transform: uppercase;
+    }
+
+    &__box {
+        width: 112rem;
+        margin: 0 auto;
+        margin-bottom: 15.3rem;
+        display: flex;
+        gap: 3.2rem;
+    }
+
+    &__img {
+        display: block;
+        width: 420px;
+        height: 280px;
+        border-radius: 3rem;
+    }
+}
